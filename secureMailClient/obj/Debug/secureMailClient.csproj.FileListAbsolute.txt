@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\securemailclient\PKRY\secureMailClient\bin\Debug\secureMailClient.exe.config
+C:\Users\lenovo\Desktop\securemailclient\PKRY\secureMailClient\bin\Debug\secureMailClient.exe
+C:\Users\lenovo\Desktop\securemailclient\PKRY\secureMailClient\bin\Debug\secureMailClient.pdb
+C:\Users\lenovo\Desktop\securemailclient\PKRY\secureMailClient\obj\Debug\secureMailClient.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\securemailclient\PKRY\secureMailClient\obj\Debug\secureMailClient.Form1.resources
+C:\Users\lenovo\Desktop\securemailclient\PKRY\secureMailClient\obj\Debug\secureMailClient.Properties.Resources.resources
+C:\Users\lenovo\Desktop\securemailclient\PKRY\secureMailClient\obj\Debug\secureMailClient.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\securemailclient\PKRY\secureMailClient\obj\Debug\secureMailClient.exe
+C:\Users\lenovo\Desktop\securemailclient\PKRY\secureMailClient\obj\Debug\secureMailClient.pdb
+C:\Users\lenovo\Desktop\Projects\securemailclient\secureMailClient\bin\Debug\secureMailClient.exe.config
+C:\Users\lenovo\Desktop\Projects\securemailclient\secureMailClient\obj\Debug\secureMailClient.exe
+C:\Users\lenovo\Desktop\Projects\securemailclient\secureMailClient\obj\Debug\secureMailClient.pdb

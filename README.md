@@ -1,0 +1,2 @@
+# PKRY
+bezpieczny klient pocztowy
